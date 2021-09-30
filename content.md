@@ -1,0 +1,46 @@
+Lars:
+- 01 Go + VS Code installation party
+- 02 Hintergrund, Geschichte
+- 03 Hello World
+  - Zeigen, dass das Programm etwas ausgibt
+- 04 Values/Variables
+  - String, Int (versch. Größen), Float, Bool
+  - Eigenschaften/Inhalt der verschiedenen Datentypen, Ablage im Arbeitsspeicher
+- 05 If/Else
+  - Logische Operatoren
+  - Flow-Diagramm
+- 06 Switch
+  - “Abkürzung” für mehrere If-statements
+- 07 For
+  - Verschiedene Formen (Endlos, Counter, "while")
+  - Flow-Diagramm
+- 08 Slices
+  - Typnamen (also []Typ{})
+  - append/len Funktion
+  - Zugriff per Index
+  - Ablage im Arbeitsspeicher
+
+Patrick 
+- 09 Maps
+  - Typnamen map[Keytype]Valuetype
+  - Schreiben/Lesen
+  - delete Funktion
+- 10 Range
+  - Syntax mit for
+  - Unterschiede Map/Slice
+  - Key/value bzw. index/value erklären
+- 11 Functions
+  - Parameter
+  - Rückgabewerte (keine named returns)
+- 12 Multiple Return Values
+  - Syntax
+- 13 Errors
+  - errors.New und fmt.Errorf
+- 14 Pointers
+  - Wie funktionieren Pointer im Speicher? (Visualisierung)
+- 15 Structs
+  - Syntax
+  - Speicherlayout
+- 16 Methods
+  - Receiver syntax
+  - Pointer-/Value receiver
