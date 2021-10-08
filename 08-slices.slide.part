@@ -1,0 +1,7 @@
+## Slices
+
+_Dynamische Menge_ von Elementen beliebigen Typs.
+
+Initialisierung:
+
+.code snippets/slices/init.go /^//START/,/^//END/ HL12

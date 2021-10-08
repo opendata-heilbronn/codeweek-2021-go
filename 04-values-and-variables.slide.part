@@ -1,0 +1,36 @@
+## Variablen - Zuweisung
+
+.code snippets/types_variables/assignment.go /^//START/,/^//END/
+
+## Variablen
+
+Ganzzahlen
+
+.code snippets/types_variables/integers.go /^//START/,/^//END/
+
+Die Größe von _int_ ist Architekturabhängig und greift entweder auf _int32_ oder _int64_ zurück.
+
+Gleitkommazahlen
+
+.code snippets/types_variables/floats.go /^//START/,/^//END/
+
+## Variablen - Boolean
+
+.code snippets/types_variables/booleans.go /^//START/,/^//END/
+
+Logische Operatoren (Vergleichsoperatoren)
+
+    ==    gleich
+    !=    ungleich
+    >     größer als
+    >=    größergleich
+    <     kleiner als
+    <=    kleinergleich
+    &&    Logisches Und (nur auf bool anwendbar)
+    ||    Logisches Oder (nur auf bool anwendbar)
+    !     Negation (nur auf bool anwendbar)
+
+## Beispiel
+
+.play snippets/types_variables/example.go
+
