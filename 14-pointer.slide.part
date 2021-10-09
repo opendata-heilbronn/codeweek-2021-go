@@ -6,8 +6,8 @@
 
 ## Code-Beispiel Generell
 
-.play -edit -numbers examples/14-pointer/pointer.go
+.play -edit -numbers snippets/14-pointer/pointer.go
 
-## Code-Beispiel Parameter
+## Code-Beispiel Pointer Parameter
 
-.play -edit -numbers examples/14-pointer-parameter/pointer-parameter.go
+.play -edit -numbers snippets/14-pointer-parameter/pointer-parameter.go

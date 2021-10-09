@@ -1,0 +1,14 @@
+## Methoden
+* Spezielle Funktionssyntax, arbeiten auf Strukturen
+  * "Receiver" vor Funktionsname
+  * Value-Receiver: bekommen Kopie der Struktur
+  * Pointer-Receiver: bekommen einen Pointer auf Originalstruktur
+* Können auf Struktur-Variablen aufgerufen werden
+* Definition: \
+  `func (s StructType) MethodName(param1 type1) returnType { ... }`
+* Verwendung: \
+  `returnValue := myStruct.MethodName(param1)`
+
+## Code-Beispiel
+
+.play -edit -numbers snippets/16-methods/methods.go

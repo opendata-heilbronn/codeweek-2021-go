@@ -9,10 +9,10 @@
 
 ## Code-Beispiel
 
-.play -edit -numbers examples/11-functions/functions.go
+.play -edit -numbers snippets/11-functions/functions.go
 
 ## Code-Beispiel Fakultät
 * n! = n * (n-1) * (n-2) * ... * 1
 * 5! = 5 * 4 * 3 * 2 * 1
 
-.play -edit -numbers examples/11-functions-factorial/factorial.go
+.play -edit -numbers snippets/11-functions-factorial/factorial.go

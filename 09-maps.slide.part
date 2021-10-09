@@ -26,4 +26,4 @@
 
 ## Code-Beispiel
 
-.play -numbers -edit examples/09-maps/maps.go
+.play -numbers -edit snippets/09-maps/maps.go

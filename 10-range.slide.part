@@ -28,4 +28,4 @@ for index, character := range "hello world" {
 
 ## Code-Beispiel
 
-.play -numbers -edit examples/10-range/range.go
+.play -numbers -edit snippets/10-range/range.go
