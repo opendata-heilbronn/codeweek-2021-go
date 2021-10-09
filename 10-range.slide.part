@@ -1,0 +1,31 @@
+## Range
+* Durchlaufen von verschiedenen Datenstrukturen
+  * Arrays
+  * Slices
+  * Maps
+  * Strings
+  * Channels (nicht in diesem Kurs)
+
+## Syntax
+
+**Slices/Arrays**
+```go
+for index, element := range slice {
+}
+```
+
+**Maps**
+```go
+for key, value := range myMap {
+}
+```
+
+**Strings**
+```go
+for index, character := range "hello world" {
+}
+```
+
+## Code-Beispiel
+
+.play -numbers -edit examples/10-range/range.go

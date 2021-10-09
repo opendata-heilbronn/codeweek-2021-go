@@ -1,0 +1,11 @@
+## Fehlerbehandlung
+* Go hat keine spezielle Fehlerbehandlung
+* Funktionen in denen Fehler auftreten können, geben `error` zurück
+* Fehler müssen manuell geprüft werden
+  * `if err != nil { ... }`
+* Möglichkeiten um einfach `error` Instanzen zu erstellen
+  * Fester Text: `errors.New("Fehlertext")`
+  * Text zusammenbauen: `fmt.Errorf("Fehler wert a = %s", a)`
+
+## Code-Beispiel
+.play -edit -numbers examples/12-multiple-return-values/multiple-return-values.go

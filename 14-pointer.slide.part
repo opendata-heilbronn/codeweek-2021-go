@@ -1,0 +1,13 @@
+## Pointer
+* Variablen, die auf andere Variablen verweisen (zeigen)
+* Ort einer Variable = Adresse
+* `&` = Adress-Operator
+* Hilfreich, wenn eine Funktion einen Parameter verändern soll
+
+## Code-Beispiel Generell
+
+.play -edit -numbers examples/14-pointer/pointer.go
+
+## Code-Beispiel Parameter
+
+.play -edit -numbers examples/14-pointer-parameter/pointer-parameter.go
