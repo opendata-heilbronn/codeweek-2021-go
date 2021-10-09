@@ -1,0 +1,27 @@
+## Schleifen
+
+Go kennt nur ein Schlüsselwort für Schleifen: **__for__**
+
+Umgesetzt werden können die:
+- Zählerschleife
+- While-Schleife
+- Endlosschleife
+
+## Schleifen
+
+Endlosschleife
+
+.code snippets/loops/infinite/for.go /^//START/,/^//END/ HL12
+
+Zählerschleife
+
+.play snippets/loops/counter/for.go
+
+## Schleifen
+
+While-Schleife
+
+.play snippets/loops/while/for.go
+
+
+

@@ -1,0 +1,12 @@
+## Verzweigungen
+
+.image images/flowchart.png 350 1000
+
+## if
+
+.play snippets/if/without_else/if.go
+
+## else
+
+.play snippets/if/with_else/if.go
+
