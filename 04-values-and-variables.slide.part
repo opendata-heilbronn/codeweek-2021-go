@@ -1,22 +1,28 @@
-## Variablen - Zuweisung
+## Variablen
 
-.code snippets/types_variables/assignment.go /^//START/,/^//END/
+Zuweisung
+
+.code snippets/04-values_variables/assignment.go /^//START/,/^//END/
+
+Strings
+
+.code snippets/04-values_variables/strings.go
 
 ## Variablen
 
 Ganzzahlen
 
-.code snippets/types_variables/integers.go /^//START/,/^//END/
+.code snippets/04-values_variables/integers.go /^//START/,/^//END/
 
 Die Größe von _int_ ist Architekturabhängig und greift entweder auf _int32_ oder _int64_ zurück.
 
 Gleitkommazahlen
 
-.code snippets/types_variables/floats.go /^//START/,/^//END/
+.code snippets/04-values_variables/floats.go /^//START/,/^//END/
 
 ## Variablen - Boolean
 
-.code snippets/types_variables/booleans.go /^//START/,/^//END/
+.code snippets/04-values_variables/booleans.go /^//START/,/^//END/
 
 Logische Operatoren (Vergleichsoperatoren)
 
@@ -32,5 +38,5 @@ Logische Operatoren (Vergleichsoperatoren)
 
 ## Beispiel
 
-.play snippets/types_variables/example.go
+.play snippets/04-values_variables/example.go
 

@@ -4,4 +4,4 @@ _Dynamische Menge_ von Elementen beliebigen Typs.
 
 Initialisierung:
 
-.code snippets/slices/init.go /^//START/,/^//END/ HL12
+.code snippets/08-slices/init.go /^//START/,/^//END/ HL12
