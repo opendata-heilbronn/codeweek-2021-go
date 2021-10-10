@@ -1,0 +1,29 @@
+## Maps
+
+* Assoziative Datenstruktur
+* Schlüssel zu Wert Zuordnung
+* Ein Schlüssel zu (optional) ein Wert
+* Schlüssel-Typ müssen vergleichbar sein
+* Werte-Typ kann beliebig gewählt werden
+
+## Mit Maps arbeiten
+
+* Map definieren
+  * `map[KeyType]ValueType`
+* Wert zuweisen
+  * `myMap["key"] = "value"`
+* Wert auslesen
+  * `value := myMap["key"]`
+  * `value, present := myMap["key"]`
+  * Falls nicht vorhanden: Standardwert
+  * Zweiter Rückgabewert zeigt an, ob in Map vorhanden
+
+## Mit Maps arbeiten
+* Wert löschen
+  * delete(myMap, "key")
+* Größe auslesen
+  * len(myMap)
+
+## Code-Beispiel
+
+.play -numbers -edit snippets/09-maps/maps.go

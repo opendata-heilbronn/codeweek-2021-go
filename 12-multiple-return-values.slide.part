@@ -1,0 +1,7 @@
+## Mehrere Rückgabewerte
+* Funktionen können mehrere Rückgabewerte haben
+* `func test() (int, int, int) { ... }` gibt drei Integer zurück
+* Beliebtes Pattern: `(Result, error)` gibt Ergebnis **und** Fehler zurück
+* Entweder Result oder error sind per Konvention `nil`
+
+

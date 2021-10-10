@@ -1,0 +1,15 @@
+## Strukturen
+* Zusammengesetzter Typ
+* Besteht aus mehreren Variablen
+  * Werden Felder genannt
+  * Bekommen Namen innerhalb der Struktur
+  * Unterschiedliche Typen möglich
+* Definition mit: `type Name struct {
+    FieldName FieldType
+  }`
+* Großer Anfangsbuchstabe bei Feldname: Außerhalb zugreifbar
+* Kleiner Anfangsbuchstabe: Nur in Package zugreifbar
+
+## Code-Beispiel
+
+.play -edit -numbers snippets/15-structs/cars.go

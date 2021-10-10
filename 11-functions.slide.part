@@ -1,0 +1,18 @@
+## Funktionen
+* Wiederverwendbarer, ausgelagerter Code
+* Komplexität verstecken
+* Notwendig für z.B. Rekursion
+* Parameter als Eingabe
+* Rückgabewert als Ergebnis
+* Definition
+  * `func funktionsname(parameter1 typ1, parameter2 typ2) rückgabetyp { ... }`
+
+## Code-Beispiel
+
+.play -edit -numbers snippets/11-functions/functions.go
+
+## Code-Beispiel Fakultät
+* n! = n * (n-1) * (n-2) * ... * 1
+* 5! = 5 * 4 * 3 * 2 * 1
+
+.play -edit -numbers snippets/11-functions-factorial/factorial.go
