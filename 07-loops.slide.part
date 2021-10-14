@@ -11,17 +11,17 @@ Umgesetzt werden können die:
 
 Endlosschleife
 
-.code snippets/loops/infinite/for.go /^//START/,/^//END/ HL12
+.code snippets/07-loops/infinite/for.go /^//START/,/^//END/ HL12
 
 Zählerschleife
 
-.play snippets/loops/counter/for.go
+.play snippets/07-loops/counter/for.go
 
 ## Schleifen
 
 While-Schleife
 
-.play snippets/loops/while/for.go
+.play snippets/07-loops/while/for.go
 
 
 

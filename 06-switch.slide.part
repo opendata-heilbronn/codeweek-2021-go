@@ -1,4 +1,6 @@
-## switch
+## Verzweigungen
 
-.play snippets/switch/switch.go
+switch
+
+.play snippets/06-switch/switch.go
 
